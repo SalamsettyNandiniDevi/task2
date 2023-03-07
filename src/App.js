@@ -4,7 +4,7 @@ import N from "./N";
 const App = () => {
   return (
     <div>
-      Durga
+      Durgaprasad
       <N />
     </div>
   );
