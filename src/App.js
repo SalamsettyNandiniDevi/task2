@@ -4,7 +4,7 @@ import N from './N'
 const App = () => {
   return (
     <div>
-       Sample
+       Mickey Mouse
       
       <N/>
     </div>
