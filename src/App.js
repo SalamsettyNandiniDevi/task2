@@ -1,14 +1,13 @@
-import React from 'react'
-import N from './N'
+import React from "react";
+import N from "./N";
 
 const App = () => {
   return (
     <div>
-      HE
-      
-      <N/>
+      Hello
+      <N />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
